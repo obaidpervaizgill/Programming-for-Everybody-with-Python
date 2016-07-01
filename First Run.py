@@ -1,6 +1,7 @@
 Python 3.4.1 (v3.4.1:c0e311e010fc, May 18 2014, 10:38:22) [MSC v.1600 32 bit (Intel)] on win32
 Type "copyright", "credits" or "license()" for more information.
->>> def print_lyrics():
+##Some common errors to understand before you get started
+def print_lyrics():
 	print"Im a lumber jack and Im okay"
 	
 SyntaxError: invalid syntax
